@@ -1,4 +1,4 @@
-<h1>批踢踢表特版 Beautiful Pictures Scraping by Scrapy </h1>
+<h1> Beautiful Pictures Scraping by Scrapy </h1>
 
 <h2>Execute Environment : Terminal</h2>
 - cd the scrapy root folder<br>
