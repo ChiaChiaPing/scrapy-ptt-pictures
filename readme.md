@@ -1,8 +1,9 @@
 <h1> Beautiful Pictures Scraping by Scrapy </h1>
 
 <h2>Execute Environment : Terminal</h2>
-- cd the scrapy root folder<br>
-- command : scrapy crawl pt (Enter)<br>
+'''
+scrapy crawl pt
+'''
 
 <h2>Environment Settings (Settings.py)</h2>
 - default file folder paths to downloaded pictures : /Users/jiajiaping(your_name)/Desktop/pic
