@@ -6,7 +6,7 @@
 
 
 <h2>Environment Settings (Settings.py)</h2>
-- default file folder paths to downloaded pictures : /Users/jiajiaping(your_name)/Desktop/pic
+- default file folder paths to downloaded pictures : /Users/{{your_name}}/Desktop/pic<BR>
 - You will see the pictures in the folder
 
 
