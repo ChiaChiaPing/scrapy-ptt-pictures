@@ -1,7 +1,7 @@
 <h1> Beautiful Pictures Scraping by Scrapy </h1>
 
-<h2>Execute Environment : Terminal</h2>
-> -scrapy crawl pt
+<h2>Execute : Terminal</h2>
+> scrapy crawl pt
 
 
 <h2>Environment Settings (Settings.py)</h2>
