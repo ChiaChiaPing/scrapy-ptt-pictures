@@ -1,4 +1,4 @@
-<h1> Beautiful Pictures Scraping by Scrapy </h1>
+<h1> Pictures Scraping by Scrapy </h1>
 
 <h2>Execute : Terminal</h2>
 - scrapy crawl pt
